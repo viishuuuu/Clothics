@@ -1,0 +1,21 @@
+product_id,name,category,price,cost,season,emoji
+1,Classic Round-Neck T-Shirt,T-Shirt,499,220,all,👕
+2,Graphic Print T-Shirt,T-Shirt,699,300,summer,🎽
+3,Cotton Polo T-Shirt,T-Shirt,899,400,all,👕
+4,Oversized Street Tee,T-Shirt,799,340,all,👕
+5,Slim Fit Blue Jeans,Jeans,1799,800,all,👖
+6,Straight Fit Jeans,Jeans,1699,750,all,👖
+7,Distressed Denim Jeans,Jeans,1999,880,all,👖
+8,Black Skinny Jeans,Jeans,1899,820,all,👖
+9,Formal Grey Trousers,Trousers,1499,650,all,👔
+10,Beige Chinos,Trousers,1399,600,all,👔
+11,Utility Cargo Trousers,Trousers,1599,700,all,👔
+12,Cotton Jogger Lower,Lower,799,330,all,🩳
+13,Soft Night Pyjama Lower,Lower,599,240,all,🩳
+14,Active Summer Shorts,Lower,649,270,summer,🩳
+15,Fleece Winter Track Suit,Track Suit,2499,1100,winter,🧥
+16,Sports Dry-Fit Track Suit,Track Suit,2199,950,all,🏃
+17,Thermal Zip Track Suit,Track Suit,2799,1200,winter,🧥
+18,Cotton Briefs (Pack of 3),Underwear,499,200,all,🩲
+19,Boxer Shorts (Pack of 3),Underwear,599,250,all,🩲
+20,Thermal Innerwear Set,Underwear,899,380,winter,🧦
